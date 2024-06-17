@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @EdrMartinss
-- 🌱 I’m currently learning Python and C
 - 🎓 Information systems undergraduate student in Federal University of Goiás (UFG) - Goiânia, Brasil
 - 📫 How to reach me edrmartinss@gmail.com
 
